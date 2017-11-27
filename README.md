@@ -11,3 +11,4 @@ Signed,
 * Mauricio Rodrigues ([@zabaala](https://github.com/zabaala)), WebDev & Laravel Lover, Brazil
 * Vagner Kaefer ([@vagkaefer](https://github.com/vagkaefer)), Computer Engineer & Laravel Lover, Brazil
 * Luiz Gonçalves ([@lhcgoncalves](https://github.com/lhcgoncalves)), Software Engineer & Laravel Lover, Brazil
+* Guilherme Henrique ([@guilhermehtk](https://github.com/guilhermehtk)), Web/Software Developer & Laravel Lover, Brazil
