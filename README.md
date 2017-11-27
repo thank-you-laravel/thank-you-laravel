@@ -13,3 +13,4 @@ Signed,
 * Luiz Gonçalves ([@lhcgoncalves](https://github.com/lhcgoncalves)), Software Engineer & Laravel Lover, Brazil
 * Guilherme Henrique ([@guilhermehtk](https://github.com/guilhermehtk)), Web/Software Developer & Laravel Lover, Brazil
 * Ooppah.com ([@ooppah](https://github.com/ooppah)), A SaaS made with Laravel, Rio de Janeiro, Brazil
+* Fábio Aiub Sperotto ([@fabiosperotto](https://github.com/fabiosperotto)), WebDev, Brazil
