@@ -1,3 +1,4 @@
+* Fork this repository.
 * Please add your signature at the end of the list, at the bottom.
 * Just one line, following the pattern you can see in the existing ones.
 * Make sure the linked username in the signature matches exactly the GitHub
