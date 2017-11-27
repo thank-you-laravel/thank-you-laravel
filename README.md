@@ -9,3 +9,4 @@ Laravel, thank you very much.
 Signed,
 
 * Mauricio Rodrigues ([@zabaala](https://github.com/zabaala)), WebDev & Laravel Lover, Brazil
+* Vagner Kaefer ([@vagkaefer](https://github.com/vagkaefer)), Computer Engineer & Laravel Lover, Brazil
