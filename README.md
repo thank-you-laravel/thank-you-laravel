@@ -19,3 +19,4 @@ Signed,
 * Maizer Gomes ([@maizergomes](https://github.com/MaizerGomes)), WebDev & Laravel Lover, Maputo, Mozambique
 * Arandi López ([@arandilopez](https://github.com/arandilopez)), Artisan Software Engineer, Mexico
 * Thiago Galvani ([@thiagopaiva99](https://github.com/thiagopaiva99)), Fullstack Developer and Analyst, Porto Alegre, Brazil
+* Paulo Freitas ([@paulofreitas](https://github.com/paulofreitas)), Software Engineer & Laravel Evangelist, Brazil
