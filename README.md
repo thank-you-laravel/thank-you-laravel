@@ -16,3 +16,4 @@ Signed,
 * Fábio Aiub Sperotto ([@fabiosperotto](https://github.com/fabiosperotto)), WebDev, Brazil
 * Tiago Heineck ([@tiagoheineck](https://github.com/tiagoheineck)), Software Engineer, Teaching with Laravel, Santa Catarina, Brazil
 * Maizer Gomes ([@maizergomes](https://github.com/MaizerGomes)), WebDev & Laravel Lover, Maputo, Mozambique
+* Arandi López ([@arandilopez](https://github.com/arandilopez)), Artisan Software Engineer, Mexico
