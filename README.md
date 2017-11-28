@@ -15,4 +15,4 @@ Signed,
 * Ooppah.com ([@ooppah](https://github.com/ooppah)), A SaaS made with Laravel, Rio de Janeiro, Brazil
 * Fábio Aiub Sperotto ([@fabiosperotto](https://github.com/fabiosperotto)), WebDev, Brazil
 * Tiago Heineck ([@tiagoheineck](https://github.com/tiagoheineck)), Software Engineer, Teaching with Laravel, Santa Catarina, Brazil
-* Maizer Gomes ([@MaizerGomes](https://github.com/MaizerGomes)), WebDev & Laravel Lover, Maputo, Mozambique
+* Maizer Gomes ([@maizergomes](https://github.com/MaizerGomes)), WebDev & Laravel Lover, Maputo, Mozambique
