@@ -26,3 +26,4 @@ Signed,
 * Tiago Rodrigues ([@tiagosilvapereira](https://github.com/TiagoSilvaPereira)), Software Engineer & Laravel Lover, Brazil
 * Eduardo Bizarro ([@edbizarro](https://github.com/edbizarro)), Web Artisan, São Paulo, Brazil
 * Ian Rodrigues ([@iansrodrigs](https://github.com/iansrodrigs)), Web Artisan & Laravel Lover, Ceará, Brazil
+* David Costa ([@davidcostadev](https://github.com/davidcostadev)), Fullstack Developer & Laravel Lover, Rio Grande do Norte, Brazil
