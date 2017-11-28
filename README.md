@@ -25,4 +25,3 @@ Signed,
 * Dorian Neto ([@dorianneto](https://github.com/dorianneto)), Full Stack & Laravel Lover, Fortaleza, Brazil
 * Tiago Rodrigues ([@tiagosilvapereira](https://github.com/TiagoSilvaPereira)), Software Engineer & Laravel Lover, Brazil
 * Eduardo Bizarro ([@edbizarro](https://github.com/edbizarro)), Web Artisan, São Paulo, Brazil
-* Ian Rodrigues ([@iansrodrigs](https://github.com/iansrodrigs)), Web Artisan & Laravel Lover, Ceará, Brazil
