@@ -30,3 +30,4 @@ Signed,
 * Vilmondes Queiroz ([@badcom](https://github.com/badcom)), Fullstack Developer & Laravel Lover, Rio Grande do Norte, Brazil
 * Matheus Lima ([@limatheus](https://github.com/limatheus)), Web Developer & Laravel Lover, Mato Grosso do Sul, Brazil
 * Deyvison Rocha ([@deyvisonrocha](http://github.com/deyvisonrocha)), Web Developer & Laravel Lover, Recife, Pernambuco, Brazil
+* Rogerio Eduardo Pereora ([@rogerio-pereira](https://github.com/rogerio-pereira)), Full Stack Developer, Poços de Caldas, Minas Gerais, Brazil
