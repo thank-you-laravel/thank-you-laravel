@@ -21,3 +21,4 @@ Signed,
 * Thiago Galvani ([@thiagopaiva99](https://github.com/thiagopaiva99)), Fullstack Developer and Analyst, Porto Alegre, Brazil
 * Paulo Freitas ([@paulofreitas](https://github.com/paulofreitas)), Software Engineer & Laravel Evangelist, Brazil
 * Marcelo Barros ([@marcelobdsilva](https://github.com/marcelobdsilva)), Solutions Developer, Brazil
+* Daniel Barion ([@danielbarion](https://github.com/danielbarion)), Web Developer & Laravel Lover, Brazil
