@@ -27,4 +27,5 @@ Signed,
 * Eduardo Bizarro ([@edbizarro](https://github.com/edbizarro)), Web Artisan, São Paulo, Brazil
 * Ian Rodrigues ([@iansrodrigs](https://github.com/iansrodrigs)), Web Artisan & Laravel Lover, Ceará, Brazil
 * David Costa ([@davidcostadev](https://github.com/davidcostadev)), Fullstack Developer & Laravel Lover, Rio Grande do Norte, Brazil
+* Vilmondes Queiroz ([@badcom](https://github.com/badcom)), Fullstack Developer & Laravel Lover, Rio Grande do Norte, Brazil
 * Matheus Lima ([@limatheus](https://github.com/limatheus)), Web Developer & Laravel Lover, Mato Grosso do Sul, Brazil
