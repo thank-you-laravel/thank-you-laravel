@@ -22,3 +22,4 @@ Signed,
 * Paulo Freitas ([@paulofreitas](https://github.com/paulofreitas)), Software Engineer & Laravel Evangelist, Brazil
 * Marcelo Barros ([@marcelobdsilva](https://github.com/marcelobdsilva)), Solutions Developer, Brazil
 * Daniel Barion ([@danielbarion](https://github.com/danielbarion)), Web Developer & Laravel Lover, Brazil
+* Tiago Rodrigues ([@tiagosilvapereira](https://github.com/TiagoSilvaPereira)), Software Engineer & Laravel Lover, Brazil
