@@ -33,4 +33,5 @@ Signed,
 * Rogerio Eduardo Pereora ([@rogerio-pereira](https://github.com/rogerio-pereira)), Full Stack Developer, Poços de Caldas, Minas Gerais, Brazil
 * Marcos Marion ([@marcosmariondev](https://github.com/marcosmariondev)), Web Developer & Laravel Lover, Teresina, Piauí, Brazil
 * Flaviano Honorato ([@flavianohonorato](https://github.com/flavianohonorato)), Web Developer & Laravel Lover, São Luís, Maranhão, Brazil
-* Jholdy Phillipy Damasceno ([@flavianohonorato](https://github.com/jholdy)), Full Stack Developer & Laravel Lover, Fortaleza, Ceará, Brazil
+* Jholdy Phillipy Damasceno ([@jholdy](https://github.com/jholdy)), Full Stack Developer & Laravel Lover, Fortaleza, Ceará, Brazil
+* Alisson Silva ([@AlissonSilvaCe](https://github.com/AlissonSilvaCe)), Full Stack & Laravel Lover, Fortaleza, Brazil
