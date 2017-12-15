@@ -36,3 +36,4 @@ Signed,
 * Jholdy Phillipy Damasceno ([@jholdy](https://github.com/jholdy)), Full Stack Developer & Laravel Lover, Fortaleza, Ceará, Brazil
 * Alisson Silva ([@AlissonSilvaCe](https://github.com/AlissonSilvaCe)), Full Stack & Laravel Lover, Fortaleza, Brazil
 * Regis Zanandrea ([@regiszanandrea](https://github.com/regiszanandrea)), Web Developer & Laravel Lover, Rio Grande do Sul, Brazil
+* Ramon J.A. Smit ([@RamonSmit](https://github.com/RamonSmit), Network Engeneer & Laravel Lover, Hoogeveen, Netherlands
