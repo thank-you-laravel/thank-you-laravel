@@ -20,7 +20,7 @@ Signed,
 * Arandi López ([@arandilopez](https://github.com/arandilopez)), Artisan Software Engineer, Mexico
 * Thiago Galvani ([@thiagopaiva99](https://github.com/thiagopaiva99)), Fullstack Developer and Analyst, Porto Alegre, Brazil
 * Paulo Freitas ([@paulofreitas](https://github.com/paulofreitas)), Software Engineer & Laravel Evangelist, Brazil
-* Marcelo Barros ([@marcelobdsilva](https://github.com/marcelobdsilva)), Solutions Developer, Brazil
+* Marcelo Barros ([@maxcelos](https://github.com/maxcelos)), Solutions Developer, Brazil
 * Daniel Barion ([@danielbarion](https://github.com/danielbarion)), Web Developer & Laravel Lover, Brazil
 * Dorian Neto ([@dorianneto](https://github.com/dorianneto)), Full Stack & Laravel Lover, Fortaleza, Brazil
 * Tiago Rodrigues ([@tiagosilvapereira](https://github.com/TiagoSilvaPereira)), Software Engineer & Laravel Lover, Brazil
