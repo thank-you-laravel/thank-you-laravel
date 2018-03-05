@@ -37,3 +37,4 @@ Signed,
 * Alisson Silva ([@AlissonSilvaCe](https://github.com/AlissonSilvaCe)), Full Stack & Laravel Lover, Fortaleza, Brazil
 * Regis Zanandrea ([@regiszanandrea](https://github.com/regiszanandrea)), Web Developer & Laravel Lover, Rio Grande do Sul, Brazil
 * Ramon J.A. Smit ([@RamonSmit](https://github.com/RamonSmit), Network Engeneer & Laravel Lover, Hoogeveen, Netherlands
+* Mandeep Singh ([@meSingh](https://github.com/meSingh)), Full Stack Developer & Laravel Trainer, Delhi India
