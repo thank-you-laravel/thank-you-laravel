@@ -40,3 +40,4 @@ Signed,
 * Mandeep Singh ([@meSingh](https://github.com/meSingh)), Full Stack Developer & Laravel Trainer, Delhi India
 * Shashi Prakash Gautam ([@shweshi](https://github.com/shweshi)), Developer & Laravel Lover, Bangalore India
 * Wanderley Ferreira de Albuquerque ([@wanderleyfa](https://github.com/wanderleyfa)), Developer & Laravel Lover, Brasilia DF, Brazil
+* Abdulaziz Alnasi ([@Abu3safeer](https://github.com/Abu3safeer)), Laravel Lover.
