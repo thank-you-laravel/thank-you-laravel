@@ -40,4 +40,5 @@ Signed,
 * Mandeep Singh ([@meSingh](https://github.com/meSingh)), Full Stack Developer & Laravel Trainer, Delhi India
 * Shashi Prakash Gautam ([@shweshi](https://github.com/shweshi)), Developer & Laravel Lover, Bangalore India
 * Wanderley Ferreira de Albuquerque ([@wanderleyfa](https://github.com/wanderleyfa)), Developer & Laravel Lover, Brasilia DF, Brazil
+* Eliyas Hossain ([@eliyas5044](https://github.com/eliyas5044)), Full Stack Developer, Bangladesh
 * Avinash Nethala ([@avinashn](https://github.com/avinashn)), Fullstack Developer, India
