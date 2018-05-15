@@ -44,3 +44,4 @@ Signed,
 * Josiah O. Yahaya ([@coderatio](https://github.com/coderatio)). Full Stack Developer, Artisan, Nigeria
 * Eliyas Hossain ([@eliyas5044](https://github.com/eliyas5044)), Full Stack Developer, Bangladesh
 * Avinash Nethala ([@avinashn](https://github.com/avinashn)), Fullstack Developer, India
+* Santosh Jung Shahi ([@beingjungshahi](https://github.com/beingjungshahi)), Software Engineer & Laravel Lover, Nepal
