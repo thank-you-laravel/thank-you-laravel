@@ -47,3 +47,4 @@ Signed,
 * Santosh Jung Shahi ([@beingjungshahi](https://github.com/beingjungshahi)), Software Engineer & Laravel Lover, Nepal
 * Carl Abraham ([@i22inc](https://github.com/i22inc)), Director [i22.in](https://i22.in)
 * Vinnie ([@HDVinnie](https://github.com/HDVinnie)), Web Developer & Laravel Lover, USA
+* Ezekiel Oladejo ([@iamwebwiz](https://github.com/iamwebwiz)), Full Stack Developer, Artisan, Nigeria
