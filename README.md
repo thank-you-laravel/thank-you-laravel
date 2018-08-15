@@ -48,3 +48,4 @@ Signed,
 * Carl Abraham ([@i22inc](https://github.com/i22inc)), Director [i22.in](https://i22.in)
 * Vinnie ([@HDVinnie](https://github.com/HDVinnie)), Web Developer & Laravel Lover, USA
 * Ezekiel Oladejo ([@iamwebwiz](https://github.com/iamwebwiz)), Full Stack Developer, Artisan, Nigeria
+* Vigikaran Vijayaratnam ([@vigikaran](https://github.com/vigikaran)), Full Stack Web Application developer / DevOps
