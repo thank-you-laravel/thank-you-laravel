@@ -49,3 +49,4 @@ Signed,
 * Vinnie ([@HDVinnie](https://github.com/HDVinnie)), Web Developer & Laravel Lover, USA
 * Ezekiel Oladejo ([@iamwebwiz](https://github.com/iamwebwiz)), Full Stack Developer, Artisan, Nigeria
 * Vigikaran Vijayaratnam ([@vigikaran](https://github.com/vigikaran)), Full Stack Web Application developer / DevOps
+* Rajat Hans ([@rajathans](https://github.com/rajathans)), Full Stack Web Developer & Laravel Artisan, Bengaluru, India
