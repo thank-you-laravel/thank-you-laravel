@@ -50,3 +50,4 @@ Signed,
 * Ezekiel Oladejo ([@iamwebwiz](https://github.com/iamwebwiz)), Full Stack Developer, Artisan, Nigeria
 * Vigikaran Vijayaratnam ([@vigikaran](https://github.com/vigikaran)), Full Stack Web Application developer / DevOps
 * Rajat Hans ([@rajathans](https://github.com/rajathans)), Full Stack Web Developer & Laravel Artisan, Bengaluru, India
+* Joel Reis ([@ElJoeLReis](https://github.com/ElJoeLReis)), Web Developer, Portugal
