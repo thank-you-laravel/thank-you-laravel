@@ -52,3 +52,5 @@ Signed,
 * Rajat Hans ([@rajathans](https://github.com/rajathans)), Full Stack Web Developer & Laravel Artisan, Bengaluru, India
 * Joel Reis ([@ElJoeLReis](https://github.com/ElJoeLReis)), Web Developer, Portugal
 * Danilo Lutz ([@danilolutz](https://github.com/danilolutz)), WebDev & Laravel Lover, Brazil
+* Evgeniy Prokhorov ([@evgwed](https://github.com/evgwed)), PHP Developer and founder PHP community in Ulyanovsk ([ulskPHP](https://t.me/ulskPHP)), Russia
+
