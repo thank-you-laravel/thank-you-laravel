@@ -53,3 +53,7 @@ Signed,
 * Joel Reis ([@ElJoeLReis](https://github.com/ElJoeLReis)), Web Developer, Portugal
 * Danilo Lutz ([@danilolutz](https://github.com/danilolutz)), WebDev & Laravel Lover, Brazil
 * Andrii Lavryniuk ([@splaa](https://github.com/splaa)), Web Developer, Ukraine
+* Given Ncube ([@slimgee](https://github.com/slimgee)), Full Stack Developer, Zimbabwe
+* Leonardo Teixeira ([@LeonardoTeixeira](https://github.com/LeonardoTeixeira)), Software Engineer, Brazil
+* Abdullah Hejazi([@Abdullah-Hejazi](https://github.com/Abdullah-Hejazi)), Full Stack Web Developer, Cairo, Egypt
+* Benjamin Temitope ([@benjamintemitope](https://github.com/benjamintemitope)). Web Developer, Nigeria
