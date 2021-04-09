@@ -52,6 +52,7 @@ Signed,
 * Rajat Hans ([@rajathans](https://github.com/rajathans)), Full Stack Web Developer & Laravel Artisan, Bengaluru, India
 * Joel Reis ([@ElJoeLReis](https://github.com/ElJoeLReis)), Web Developer, Portugal
 * Danilo Lutz ([@danilolutz](https://github.com/danilolutz)), WebDev & Laravel Lover, Brazil
+* Anatoliy Poloz ([@tolyod](https://github.com/tolyod)), Software Engineer, Russia/Ukraine
 * Andrii Lavryniuk ([@splaa](https://github.com/splaa)), Web Developer, Ukraine
 * Given Ncube ([@slimgee](https://github.com/slimgee)), Full Stack Developer, Zimbabwe
 * Leonardo Teixeira ([@LeonardoTeixeira](https://github.com/LeonardoTeixeira)), Software Engineer, Brazil
