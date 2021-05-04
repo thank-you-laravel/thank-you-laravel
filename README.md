@@ -52,6 +52,7 @@ Signed,
 * Rajat Hans ([@rajathans](https://github.com/rajathans)), Full Stack Web Developer & Laravel Artisan, Bengaluru, India
 * Joel Reis ([@ElJoeLReis](https://github.com/ElJoeLReis)), Web Developer, Portugal
 * Danilo Lutz ([@danilolutz](https://github.com/danilolutz)), WebDev & Laravel Lover, Brazil
+* Evgeniy Prokhorov ([@evgwed](https://github.com/evgwed)), PHP Developer and founder PHP community in Ulyanovsk ([ulskPHP](https://t.me/ulskPHP)), Russia
 * Gennaro Landolfi ([@rinodrummer](https://github.com/rinodrummer)), Web Enthusiast, Laravel & PHP Lover, Full-stack Web Developer, Italy
 * José Manuel Casani Guerra ([@MrJmpl3](https://github.com/MrJmpl3)), PHP & Laravel Developer, Perú
 * Araz Gholami ([@arazgholami](https://github.com/arazgholami)), Software Engineer, 🇹🇷 Turkey
