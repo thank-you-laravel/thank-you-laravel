@@ -65,3 +65,4 @@ Signed,
 * Abdullah Hejazi([@Abdullah-Hejazi](https://github.com/Abdullah-Hejazi)), Full Stack Web Developer, Cairo, Egypt
 * Benjamin Temitope ([@benjamintemitope](https://github.com/benjamintemitope)). Web Developer, Nigeria
 * Omar Villafuerte ([@ovillafuerte94](https://github.com/ovillafuerte94)), Full Stack Developer & Laravel Lover, Cuba
+* Carlos Morales ([@carlosmls1](https://github.com/carlosmls1)), Another full-stack developer who's in love with laravel, Costa Rica
