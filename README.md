@@ -67,3 +67,4 @@ Signed,
 * Omar Villafuerte ([@ovillafuerte94](https://github.com/ovillafuerte94)), Full Stack Developer & Laravel Lover, Cuba
 * Nabiel Omar Syarif ([@kbiits](https://github.com/kbiits)), PHP and Laravel Lover, Palembang, Indonesia
 * Carlos Morales ([@carlosmls1](https://github.com/carlosmls1)), Another full-stack developer who's in love with laravel, Costa Rica
+* Adil Moughal ([@mohammed-adil-moughal](https://mohammed-adil-moughal)), Backend Developer, Kenya
