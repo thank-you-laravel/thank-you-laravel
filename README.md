@@ -71,3 +71,4 @@ Signed,
 * Adil Moughal ([@mohammed-adil-moughal](https://mohammed-adil-moughal)), Backend Developer, Kenya
 * Carlos Morales ([@jkdevarg](https://github.com/JkDevArg)), Web developer, PHP and Laravel lover!. Argentina.
 * Dinush Chathurya ([@dinushchathurya](https://github.com/dinushchathurya)), Full Stack Engineer, Laravel lover!. Sri Lanka.
+* Shahadat Hossain Hridoy ([@HridoyHazard](https://github.com/HridoyHazard)), Mern Stack Developer , Bangladesh
