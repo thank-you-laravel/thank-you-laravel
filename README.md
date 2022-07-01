@@ -72,3 +72,4 @@ Signed,
 * Carlos Morales ([@jkdevarg](https://github.com/JkDevArg)), Web developer, PHP and Laravel lover!. Argentina.
 * Dinush Chathurya ([@dinushchathurya](https://github.com/dinushchathurya)), Full Stack Engineer, Laravel lover!. Sri Lanka.
 * Shahadat Hossain Hridoy ([@HridoyHazard](https://github.com/HridoyHazard)), Mern Stack Developer , Bangladesh
+* Simon ([@Simoon-F](https://github.com/Simoon-F)), Full Stack Web Developer. 🇨🇳
