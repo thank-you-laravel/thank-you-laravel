@@ -56,7 +56,7 @@ Signed,
 * Evgeniy Prokhorov ([@evgwed](https://github.com/evgwed)), PHP Developer and founder PHP community in Ulyanovsk ([ulskPHP](https://t.me/ulskPHP)), Russia
 * Gennaro Landolfi ([@rinodrummer](https://github.com/rinodrummer)), Web Enthusiast, Laravel & PHP Lover, Full-stack Web Developer, Italy
 * José Manuel Casani Guerra ([@MrJmpl3](https://github.com/MrJmpl3)), PHP & Laravel Developer, Perú
-* Araz Gholami ([@arazgholami](https://github.com/arazgholami)), Software Engineer, 🇹🇷 Turkey
+* Araz Gholami ([@arazgholami](https://github.com/arazgholami)), Software Engineer, Turkey
 * Igor Veselov ([@utz0r2](https://github.com/utz0r2)), Full Stack Developer, Ukraine
 * Anatoliy Poloz ([@tolyod](https://github.com/tolyod)), Software Engineer, Russia/Ukraine
 * Andrii Lavryniuk ([@splaa](https://github.com/splaa)), Web Developer, Ukraine
@@ -71,5 +71,5 @@ Signed,
 * Adil Moughal ([@mohammed-adil-moughal](https://mohammed-adil-moughal)), Backend Developer, Kenya
 * Carlos Morales ([@jkdevarg](https://github.com/JkDevArg)), Web developer, PHP and Laravel lover!. Argentina.
 * Dinush Chathurya ([@dinushchathurya](https://github.com/dinushchathurya)), Full Stack Engineer, Laravel lover!. Sri Lanka.
+* Zia Uddin ([@nzian](https://github.com/nzian)), Backend Developer, Bangladesh
 * Shahadat Hossain Hridoy ([@HridoyHazard](https://github.com/HridoyHazard)), Mern Stack Developer , Bangladesh
-* Simon ([@Simoon-F](https://github.com/Simoon-F)), Full Stack Web Developer. 🇨🇳
