@@ -73,4 +73,5 @@ Signed,
 * Dinush Chathurya ([@dinushchathurya](https://github.com/dinushchathurya)), Full Stack Engineer, Laravel lover!. Sri Lanka.
 * Zia Uddin ([@nzian](https://github.com/nzian)), Backend Developer, Bangladesh
 * Shahadat Hossain Hridoy ([@HridoyHazard](https://github.com/HridoyHazard)), Mern Stack Developer , Bangladesh
+* Aamir Sohail ([@AamirSohailKmAs](https://github.com/AamirSohailKmAs)), Full Stack Web Developer, Pakistan
 * Simon ([@Simoon-F](https://github.com/Simoon-F)), Full Stack Web Developer, China.
