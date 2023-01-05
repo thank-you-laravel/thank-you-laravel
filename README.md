@@ -75,3 +75,4 @@ Signed,
 * Shahadat Hossain Hridoy ([@HridoyHazard](https://github.com/HridoyHazard)), Mern Stack Developer , Bangladesh
 * Aamir Sohail ([@AamirSohailKmAs](https://github.com/AamirSohailKmAs)), Full Stack Web Developer, Pakistan
 * Simon ([@Simoon-F](https://github.com/Simoon-F)), Full Stack Web Developer, China.
+* Rivaldy Fauzan Mu'taz ([@rifalous](https://github.com/rifalous)), Backend Developer & Laravel Lover from Bandung, Indonesia
