@@ -77,3 +77,4 @@ Signed,
 * Simon ([@Simoon-F](https://github.com/Simoon-F)), Full Stack Web Developer, China.
 * Rivaldy Fauzan Mu'taz ([@rifalous](https://github.com/rifalous)), Backend Developer & Laravel Lover from Bandung, Indonesia
 * Bagus Budi Satoto ([@bagussatoto](https://github.com/bagussatoto)), Web Developer, Software Engineering and Network Engineering, from 💖 [Indonesia](https://home.amikom.ac.id)
+* Ayon Khan ([@ayonkhan](https://github.com/ayonkhan)), Web Artisan, Canada
