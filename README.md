@@ -76,8 +76,9 @@ Signed,
 * Aamir Sohail ([@AamirSohailKmAs](https://github.com/AamirSohailKmAs)), Full Stack Web Developer, Pakistan
 * Simon ([@Simoon-F](https://github.com/Simoon-F)), Full Stack Web Developer, China.
 * Rivaldy Fauzan Mu'taz ([@rifalous](https://github.com/rifalous)), Backend Developer & Laravel Lover from Bandung, Indonesia
-* Bagus Budi Satoto ([@bagussatoto](https://github.com/bagussatoto)), Web Developer, Software Engineering and Network Engineering, from 💖 [Indonesia](https://home.amikom.ac.id)
+* Bagus Budi Satoto ([@bagussatoto](https://github.com/bagussatoto)), Web Developer, Software Engineering and Network Engineering, from [Indonesia](https://home.amikom.ac.id)
 * Ayon Khan ([@ayonkhan](https://github.com/ayonkhan)), Web Artisan, Canada
 * Harunur Rashid ([@harunBdtask](https://github.com/harunBdtask)), Full Stack Developer , Bangladesh
 * Mark Kevin Cardente Besinga ([@besingamkb](https://github.com/besingamkb)) Full Stack Developer, Philippines
+* Sam ([@sam0hack](https://github.com/sam0hack)), Backend Engineer, Sweden
 * Jordi Bassagana ([@programarivm](https://github.com/programarivm)), Web Developer, Spain
