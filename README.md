@@ -80,3 +80,4 @@ Signed,
 * Ayon Khan ([@ayonkhan](https://github.com/ayonkhan)), Web Artisan, Canada
 * Harunur Rashid ([@harunBdtask](https://github.com/harunBdtask)), Full Stack Developer , Bangladesh
 * Mark Kevin Cardente Besinga ([@besingamkb](https://github.com/besingamkb)) Full Stack Developer, Philippines
+* Jordi Bassagana ([@programarivm](https://github.com/programarivm)), Web Developer, Spain
