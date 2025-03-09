@@ -81,4 +81,4 @@ Signed,
 * Harunur Rashid ([@harunBdtask](https://github.com/harunBdtask)), Full Stack Developer , Bangladesh
 * Mark Kevin Cardente Besinga ([@besingamkb](https://github.com/besingamkb)) Full Stack Developer, Philippines
 * Sam ([@sam0hack](https://github.com/sam0hack)), Backend Engineer, Sweden
-* Jordi Bassagana ([@programarivm](https://github.com/programarivm)), Web Developer, Spain
+* Jordi Bassagana ([@jbassagana](https://github.com/jbassagana)), Web Developer, Spain
