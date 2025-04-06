@@ -82,3 +82,4 @@ Signed,
 * Mark Kevin Cardente Besinga ([@besingamkb](https://github.com/besingamkb)) Full Stack Developer, Philippines
 * Sam ([@sam0hack](https://github.com/sam0hack)), Backend Engineer, Sweden
 * Jordi Bassagana ([@programarivm](https://github.com/programarivm)), Web Developer, Spain
+* Nickolai Shirokov ([@shirokovnv](https://github.com/shirokovnv)), Web Developer, Software Engineering, Russia
