@@ -84,3 +84,4 @@ Signed,
 * Jordi Bassagana ([@programarivm](https://github.com/programarivm)), Web Developer, Spain
 * Nickolai Shirokov ([@shirokovnv](https://github.com/shirokovnv)), Web Developer, Software Engineering, Russia
 * Pappala Raj Kumar ([@codingwithrk](https://github.com/codingwithrk)), TALL Stack Developer, PHP & Laravel lover, INDIA
+* Masatoshi Ogiwara ([@zigzagdev](https://github.com/zigzagdev)), Web Developer, Japan
